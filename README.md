@@ -1,4 +1,4 @@
 # jinx
-
-Contributers:
+/n
+Contributers: /n
 *Name:* Kitil *netID:* nk528
